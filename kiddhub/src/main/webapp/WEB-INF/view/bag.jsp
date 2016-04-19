@@ -104,5 +104,7 @@ $(document).ready(function(){
           </tr>  
         </tbody>  
       </table>  
+      
+      <a href="product">click to full product list</a>
 </body>
 </html>
